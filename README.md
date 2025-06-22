@@ -1,4 +1,4 @@
-# 2_Tier_App_Hosting_Deployment
+# Monolith_App_Hosting_Deployment
 
 **PreReq** -
 1. AWS IAM user with Access Key and Secret Key.
