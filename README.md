@@ -18,3 +18,6 @@
 4. Draw.io
 5. OS - Amazon Linux
 6. Monolith Python App
+
+
+Deployment is in prog
