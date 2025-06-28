@@ -6,3 +6,4 @@
 *.tfvars.json
 crash.log
 .terraform.lock.hclgit.terraform/
+.terraform/
